@@ -1,3 +1,7 @@
+# ontology-ui
+
+This is a draft UI for testing out the [Ontology](https://github.com/uswitch/ontology) API.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
